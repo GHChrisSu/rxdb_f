@@ -1,0 +1,10 @@
+{
+  "appId": "io.rxdb_f",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://192.168.43.186:8080"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "io.rxdb_f",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
